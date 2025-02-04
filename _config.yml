@@ -28,7 +28,7 @@ author:
   bio              : "Pretend to have bio"
   location         : "Hefei,Anhui,China"
   employer         : "USTC"
-  uri              : 
+  uri              : "https://yueqianghe.github.io"
   email            : "yueqiang_he@mail.ustc.edu.cn" 
 
   # Academic websites
@@ -73,7 +73,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : dawn-14-35
+  zhihu            : "dawn-14-35"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
