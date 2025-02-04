@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "残荷寒鸦 / Little He's Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yueqiang He"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://yueqianghe.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,7 +28,7 @@ author:
   bio              : "Pretend to have bio"
   location         : "Hefei,Anhui,China"
   employer         : "USTC"
-  uri              : https://yueqianghe.github.io
+  uri              : 
   email            : "yueqiang_he@mail.ustc.edu.cn" 
 
   # Academic websites
