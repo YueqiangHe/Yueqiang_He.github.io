@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yueqiang He (何跃强)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Pretend to have bio"
+  location         : "Hefei,Anhui,China"
+  employer         : "USTC"
+  uri              : https://yueqianghe.github.io
+  email            : "yueqiang_he@mail.ustc.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
